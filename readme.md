@@ -18,3 +18,5 @@ Operations supportted:
 
 While editing x, the color of x is darkgrey to indicate that edit mode is true. Once edit mode is exited (by enter or any other operation), the color changes to black.
 
+Don't forget to use the 'chs' operation to change the sign of the number or exponent, because the '-' key is used only to perform subtraction!
+
